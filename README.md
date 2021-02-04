@@ -8,7 +8,7 @@ This repository includes changes that Horiseon requested from us (company) to en
 
 See updates of Horiseon website [here!](https://emilyrh1058.github.io/horiseon/.)
 
-### Webpage Snapshot
+
 ![Webpage Snapshot](Develop/assets/images/Horiseon-Readme-Image)
 
 ## Project Updates
@@ -20,7 +20,7 @@ See updates of Horiseon website [here!](https://emilyrh1058.github.io/horiseon/.
 * Updated footer section to match the given mockup
 
 
-## User Story
+## Client Request
 
 ```
 AS A marketing agency
@@ -44,13 +44,3 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
