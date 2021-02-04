@@ -1,8 +1,23 @@
 # 01 HTML CSS Git: Code Refactor
 
-**This Repository**
+## This Repository ##
 
 This repository includes changes that Horiseon requested from us (company) to ensure the accessibility is up to standard. We used the existing code provided to create a more viewer-friendly site as well as updated the semantic elements. This update will guarantee a cleaner environment for futher development and design.
+
+## Horiseon Website
+
+See updates of Horiseon website [here!](https://emilyrh1058.github.io/horiseon/.)
+
+![Image of Horiseon Website]
+
+## Project Updates
+* Language: HTML and CSS
+* Inserted id to Search Engine Optimization
+* Replaced div with navigation elements
+* Inserted alt attribute for accessibilty
+* Consolidated CSS 
+* Updated footer section to match the given mockup
+
 
 ## User Story
 
