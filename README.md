@@ -8,7 +8,8 @@ This repository includes changes that Horiseon requested from us (company) to en
 
 See updates of Horiseon website [here!](https://emilyrh1058.github.io/horiseon/.)
 
-![Image of Horiseon Website]
+### Webpage Snapshot
+![Webpage Snapshot](Develop/assets/images/Horiseon-Readme-Image)
 
 ## Project Updates
 * Language: HTML and CSS
