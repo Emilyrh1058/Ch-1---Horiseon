@@ -8,8 +8,7 @@ This repository includes changes that Horiseon requested from us (company) to en
 
 See updates of Horiseon website [here!](https://emilyrh1058.github.io/horiseon/.)
 
-
-![Webpage Snapshot](Develop/assets/images/Horiseon-Readme-Image)
+<img src="Develop\assets\images\Horiseon Readme Image.JPG">
 
 ## Project Updates
 * Language: HTML and CSS
@@ -42,5 +41,3 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-```
-
