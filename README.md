@@ -6,7 +6,7 @@ This repository includes changes that Horiseon requested from us (company) to en
 
 ## Horiseon Website
 
-See updates of Horiseon website [here!](https://emilyrh1058.github.io/horiseon/.)
+See updates of Horiseon website [here!](https://emilyrh1058.github.io/horiseon/)
 
 <img src="Develop\assets\images\Horiseon Readme Image.JPG">
 
